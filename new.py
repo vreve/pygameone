@@ -13,9 +13,14 @@
 #hej hej hej
 
 #Hej hej
+from main import RED_LASER
+
+
 awdawd
 #hej hjeh hejhej
 
 #ny ändring
 
-#hje hjehejhe
+#hje hjehejheawdadaada
+#awdawdada
+#däRED_LASER
